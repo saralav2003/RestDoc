@@ -25,7 +25,7 @@ Json-java Script Object Notation
 SOAP-API
 REST-API
 
-Core API –Web Services code and Server Scripting Code->ASP, jSP, PHP
+Core API â€“Web Services code and Server Scripting Code->ASP, jSP, PHP
 Supporting API-Mainly support to perform specific task
 Third party API- Inbuilt Developed API 
 
@@ -33,6 +33,10 @@ API & Web Services
 
 Protocol->SOAP& REST
 
+
+
+Adding the video feature
+Adding audio feature
 SOAP->Slow, Security High, Mobile Environment Delay
 REST-> Fast, Security Less, Mobile Environment Fast
 
